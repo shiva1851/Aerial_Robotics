@@ -1,0 +1,4 @@
+In this zip folder, there are two files for controller.
+One is the main file controller.m which gives perfect diamond trajectory but is a little unstable.
+Other is controller_stable.m which gives roughly diamond shape but is stable and ends simulation properly.
+The only difference between the two files is the PD constant values.
